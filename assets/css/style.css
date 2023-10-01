@@ -322,7 +322,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #405eb1 repeat;
+  background: #486dd3 repeat;
   position: relative;
 }
 
@@ -350,7 +350,7 @@ h3 {
 }
 
 #intro.section .underline {
-  border-bottom: 5px solid #24305e;
+  border-bottom: 5px solid #4a5eaf;
 }
 
 #intro.section .teal {
