@@ -15,3 +15,10 @@ Screenshot of Repo:<br/>
 
 Screenshot of Webpage:<br/>
 <img width="1070" alt="Screenshot 2023-10-01 at 2 08 59 PM" src="https://github.com/seongjooy/seongjooy.github.io/assets/66128818/2b3743fa-86c4-48b6-a40b-61490d07036c"><br/><br/>
+
+Activity 4<br/>
+Screenshot of Repo:<br/>
+<img width="832" alt="Screenshot 2023-10-01 at 2 40 53 PM" src="https://github.com/seongjooy/seongjooy.github.io/assets/66128818/5e1551b0-ad31-44b0-a76b-8cd018819aba">
+
+Screenshot of Webpage:<br/>
+<img width="1001" alt="Screenshot 2023-10-01 at 2 41 03 PM" src="https://github.com/seongjooy/seongjooy.github.io/assets/66128818/272c45fa-4127-4951-b6d8-e9d3bce8add3">
